@@ -1,0 +1,7 @@
+name = "NNA"
+uuid = "121c20bc-0daf-4898-95d6-2c8acd779cdc"
+authors = ["Kapil Panwar <kapil.panwar@apolloenergyanalytics.com>"]
+version = "0.1.0"
+
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
